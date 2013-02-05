@@ -42,7 +42,7 @@ echo "Host $domain_var
 #==
 #== 1. Packages
 #==
-sudo apt-get update
+# sudo apt-get update
 sudo apt-get install -y wget curl build-essential checkinstall libxml2-dev libxslt-dev libcurl4-openssl-dev libreadline6-dev libc6-dev libssl-dev zlib1g-dev libicu-dev redis-server openssh-server git-core libyaml-dev
 
 
